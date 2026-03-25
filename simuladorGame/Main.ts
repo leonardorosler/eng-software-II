@@ -19,7 +19,7 @@ while (true) {
   if (personagens.length === 1) {
     break;
   }
-  console.log("=============================\n");
+  console.log("----------------------------------\n");
 
   teclado("Tecle ENTER para rodar o próximo round\n");
   try {
